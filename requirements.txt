@@ -4,4 +4,3 @@ ctransformers
 langchain
 python-box
 streamlit
-python_version=="3.9"
