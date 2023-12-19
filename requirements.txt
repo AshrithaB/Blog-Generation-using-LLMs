@@ -4,4 +4,4 @@ ctransformers
 langchain
 python-box
 streamlit
-python==3.9
+python
